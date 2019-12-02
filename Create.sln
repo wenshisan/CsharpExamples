@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.2003
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApplication", "ConsoleApplication\ConsoleApplication.csproj", "{8441A930-5AF1-41BC-844F-AEF3D1B45DC5}"
 EndProject
@@ -25,9 +25,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConditionConsoleApp", "Cond
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExchangeConsoleApp", "ExchangeConsoleApp\ExchangeConsoleApp.csproj", "{BCF64139-62B5-423D-9107-1D0FBD491A63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialConsoleApp", "FactorialConsoleApp\FactorialConsoleApp.csproj", "{7FBDA486-E540-445D-93C5-7E9608ADB2AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactorialConsoleApp", "FactorialConsoleApp\FactorialConsoleApp.csproj", "{7FBDA486-E540-445D-93C5-7E9608ADB2AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutiplicationConsoleApp", "MutiplicationConsoleApp\MutiplicationConsoleApp.csproj", "{B7E0E1EF-542C-4EAF-BD0F-F2430354A10B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MutiplicationConsoleApp", "MutiplicationConsoleApp\MutiplicationConsoleApp.csproj", "{B7E0E1EF-542C-4EAF-BD0F-F2430354A10B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateConsoleApp", "DelegateConsoleApp\DelegateConsoleApp.csproj", "{9D3B7FB0-163C-469F-B28F-2B001CD516B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{B7E0E1EF-542C-4EAF-BD0F-F2430354A10B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7E0E1EF-542C-4EAF-BD0F-F2430354A10B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7E0E1EF-542C-4EAF-BD0F-F2430354A10B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D3B7FB0-163C-469F-B28F-2B001CD516B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D3B7FB0-163C-469F-B28F-2B001CD516B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D3B7FB0-163C-469F-B28F-2B001CD516B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D3B7FB0-163C-469F-B28F-2B001CD516B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
