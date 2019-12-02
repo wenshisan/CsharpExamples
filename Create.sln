@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactorialConsoleApp", "Fact
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MutiplicationConsoleApp", "MutiplicationConsoleApp\MutiplicationConsoleApp.csproj", "{B7E0E1EF-542C-4EAF-BD0F-F2430354A10B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateConsoleApp", "DelegateConsoleApp\DelegateConsoleApp.csproj", "{9D3B7FB0-163C-469F-B28F-2B001CD516B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateConsoleApp", "DelegateConsoleApp\DelegateConsoleApp.csproj", "{9D3B7FB0-163C-469F-B28F-2B001CD516B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFactoryConsoleApp", "SimpleFactoryConsoleApp\SimpleFactoryConsoleApp.csproj", "{73881F7D-9C57-49D2-9442-AD47BE9B6A26}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{9D3B7FB0-163C-469F-B28F-2B001CD516B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D3B7FB0-163C-469F-B28F-2B001CD516B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D3B7FB0-163C-469F-B28F-2B001CD516B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73881F7D-9C57-49D2-9442-AD47BE9B6A26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73881F7D-9C57-49D2-9442-AD47BE9B6A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73881F7D-9C57-49D2-9442-AD47BE9B6A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73881F7D-9C57-49D2-9442-AD47BE9B6A26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
